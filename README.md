@@ -26,3 +26,4 @@ NOMBRE: julio fernando lepore #bbda09
 DNI: 30267847
 CORREO: juliofernandolepore@gmail.com
 GITHUB: juliofernandolepore
+Stack: full stack (react js - golang - postgresql)
