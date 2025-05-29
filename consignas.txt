@@ -1,1 +1,36 @@
 transcribir consignas del grupo en este archivo
+
+Creación del Project Board Kanban: cada grupo creará un Project Board Kanban en GitHub.
+
+
+Se generarán listas de tareas (ISSUES) que representen los primeros pasos en la planificación y conceptualización del proyecto.
+Mediante MILESTONES, se generarán Sprints (inicialmente, este Sprint 0) con tiempos estimados (aunque sean amplios en esta etapa inicial) para la finalización de un grupo de ISSUES.
+Ejemplos de tareas para agregar: Definición Inicial del Proyecto, Posibles clientes, posibles usuarios, Historias de Usuarios
+Plasmar la Idea del Proyecto en el README.md:
+El archivo README.md en la raíz del repositorio deberá contener una descripción clara de la idea inicial del proyecto del grupo. Incluyan:
+Título del Proyecto (Tentativo): Un nombre inicial para su proyecto.
+Breve Descripción de la Idea: ¿Cuál es la visión general del proyecto? ¿Qué problema busca resolver (aunque sea de forma muy básica)?
+Posibles Funcionalidades o Áreas de Enfoque Inicial: Algunas ideas generales de lo que podría hacer el proyecto en el futuro. Posibles usuarios.
+Integrantes del Equipo: Nombres de todos los miembros del equipo, con una presentación inicial sobre las habilidades de cada uno.
+Evidencia de Rama Personal:
+
+
+Deberán crear una rama develop desde la rama principal (main o master) del repositorio. Cada miembro del equipo deberá crear su propia rama personal desde la rama develop. El nombre de la rama debe ser identificativo (ej. feature/nombre-alumno). 
+En esta rama personal, cada miembro deberá realizar un pequeño cambio al repositorio. Esto podría ser:
+Añadir su nombre a la lista de integrantes en el README.md.
+Crear un archivo de texto simple con conceptos básicos de un tema en una nueva carpeta llamada “conceptos”. Ej: comandosGit
+Añadir una sección inicial a la descripción del proyecto en el README.md.
+- Realizar un commit de este cambio y subir su rama personal al repositorio remoto, agregar esos cambios en la rama “develop”. Sólo al finalizar el sprint, un miembro del equipo deberá fusionar la rama develop a la main.
+Participación en el Project Board Kanban con Issues:
+
+
+El equipo deberá crear ISSUES en el Project Board Kanban que representen las tareas iniciales de planificación y conceptualización del proyecto (incluida la tarea obligatoria de definir la idea del proyecto en el README).
+Cada miembro del equipo deberá tener al menos una ISSUE asignada a su nombre.
+A medida que avancen en la reflexión y definición inicial, deberán mover sus ISSUES a través de las columnas del Kanban (ej. "Por Hacer", "En Progreso", "Listo"). Esto demostrará su participación en la organización inicial del trabajo.
+Registro de Ceremonias en la Wiki:(opcional)
+Activen la Wiki del repositorio del grupo.
+Creen una página llamada "Registro de Ceremonias".
+ En esta página, documenten brevemente la "Planificación Inicial" de este Sprint 0. Esto debe incluir:
+_ Cómo se organizó el equipo inicialmente.
+_ Cómo se distribuyeron las primeras tareas (creación del repositorio, invitación de miembros, creación del Kanban, inicio del README, creación de ramas personales, etc.).
+Cada miembro del equipo deberá realizar al menos una entrada simulando su participación en una "Daily Stand-up" (reunión diaria). En esta entrada, cada miembro indicará brevemente qué hizo (o planea hacer) en relación con las tareas de este Sprint 0 y si tiene algún bloqueo.
