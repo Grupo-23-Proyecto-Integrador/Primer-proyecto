@@ -21,6 +21,7 @@ NOMBRE: Gerardo Lauro Romero #09c2da
 DNI: 35782538	
 CORREO: gerardolauroromero@gmail.com
 GITHUB: GerLR
+Stack: .NET - C# - Js - CSS - HTML - MSSQL
 
 NOMBRE: julio fernando lepore #bbda09
 DNI: 30267847
