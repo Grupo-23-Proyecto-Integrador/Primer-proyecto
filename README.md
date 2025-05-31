@@ -8,6 +8,7 @@ NOMBRE: Matias agustin tejerina #0969DA
 DNI: 36356173
 CORREO: Matiastejerina94@gmail.com
 GITHUB: MatiasTejerina07
+Stack: full stack  MERN (MongoDB - ExpressJS - ReactJS - NodeJS)
 
 NOMBRE: Candelaria Jazmín Barjollo #da3309
 DNI: 41378648	
