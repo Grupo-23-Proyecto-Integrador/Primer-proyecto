@@ -1,4 +1,6 @@
 ## **PROYECTO INTEGRADOR NUMERO 23**
+Rubro elegido: salud
+Título tentativo: Sistema de Gestión de Centro de Salud (SGCS)
 
 ### *INTEGRANTES*
 
