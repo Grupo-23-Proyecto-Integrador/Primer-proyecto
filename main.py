@@ -1,1 +1,1 @@
-print('hola a todos los integrantes')
+print('prueba para el ejercicio practico')
